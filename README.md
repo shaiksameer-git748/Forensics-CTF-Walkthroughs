@@ -1,9 +1,9 @@
 # Forensics-CTF-Walkthroughs
 bjective
 We received a file containing a huge sequence of 0 and 1:
+  <blr>  
+       fdkjhdshgf
   <blr>
-    fdkjhdshgf
-    <blr>
 
 
 111111111101100011111111111000000...
